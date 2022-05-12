@@ -1,3 +1,7 @@
+---
+theme: jekyll-theme-merlot
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/c0a20175/sample/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
