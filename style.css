@@ -1,4 +1,6 @@
-@import "";
+---
+theme: jekyll-theme-merlot
+---
 
 body {
   background: lightcyan;
