@@ -1,4 +1,5 @@
 body {
+  theme: jekyll-theme-merlot
   background: lightcyan;
   width: 800px;
   margin: auto;
